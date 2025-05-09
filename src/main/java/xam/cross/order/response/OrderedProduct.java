@@ -1,6 +1,6 @@
 package xam.cross.order.response;
 
-public class Product {
+public class OrderedProduct {
     private String id;
     private int quantity;
     private boolean isInitialised;
